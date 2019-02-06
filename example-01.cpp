@@ -1,6 +1,7 @@
 //
 //  main.cpp
-//  09_esimerkki
+//  example01
+//  This is an example of using arrays in c++
 //
 //  Created by Juhani Räisänen on 06/12/2018.
 //  Copyright © 2018 Juhani Räisänen. All rights reserved.
