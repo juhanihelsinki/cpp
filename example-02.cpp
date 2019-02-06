@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// This is an example of using pointers
+
 int main()
 {
     int var1 = 0;
