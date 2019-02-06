@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//This example demonstrates the use of functions
+
 void alkuluku(int n);
 
 //Example 3: Arguments passed but no return value
